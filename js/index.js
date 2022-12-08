@@ -1,7 +1,6 @@
 const data = async function getData() {
-  const response = await fetch("/services/challege.json");
+  const response = await fetch("../services/mi_challenge.json");
   const data = await response.json();
-
   showData(data);
   openModal();
 };
@@ -58,7 +57,7 @@ function openModal() {
 
 function showIframe(element, modal) {
   let id = element.getAttribute("data-id");
-  fetch(`/services/challege.json`)
+  fetch(`../services/mi_challenge.json`)
     .then((res) => res.json())
     .then((data) => {
       data.map((ele) => {
