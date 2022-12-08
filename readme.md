@@ -1,6 +1,6 @@
 # 100 days css challenge
 
-[Demo](https://chapst1.github.io/100-days-of-css/)
+[Demo](https://100-days-of-css.vercel.app/)
 
 #
 
