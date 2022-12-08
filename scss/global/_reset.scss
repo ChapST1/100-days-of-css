@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #344d67;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23344D67' cx='50' cy='0' r='50'/%3E%3Cg fill='%2334536d' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%23345974' cx='50' cy='100' r='50'/%3E%3Cg fill='%23335f7a' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%23336580' cx='50' cy='200' r='50'/%3E%3Cg fill='%23326c85' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%2331728a' cx='50' cy='300' r='50'/%3E%3Cg fill='%2330798f' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%23307f94' cx='50' cy='400' r='50'/%3E%3Cg fill='%23308598' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%23318c9c' cx='50' cy='500' r='50'/%3E%3Cg fill='%233392a0' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%233699a3' cx='50' cy='600' r='50'/%3E%3Cg fill='%233a9fa5' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%233fa6a8' cx='50' cy='700' r='50'/%3E%3Cg fill='%2345acaa' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%234cb3ab' cx='50' cy='800' r='50'/%3E%3Cg fill='%2353b9ad' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%235cc0ae' cx='50' cy='900' r='50'/%3E%3Cg fill='%2365c6af' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%236ECCAF' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: contain;
+  padding: 0 0.9375rem;
+  padding-top: 4.0625rem;
+
+  @media (min-width: 480px) {
+    padding: 0 10px;
+  }
+}
